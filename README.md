@@ -15,6 +15,8 @@ The project is part of my ongoing practice with Python, object-oriented programm
 ## Preview
 
 <!-- Add your dashboard screenshots here after uploading them to the repository. -->
+![image alt](https://github.com/athchatzis/Coding-Tracker-Dashboard/blob/bacd00415f84158cac78b425710f01f1aeb93efe/11.png)
+![image alt](https://github.com/athchatzis/Coding-Tracker-Dashboard/blob/bacd00415f84158cac78b425710f01f1aeb93efe/22.png)
 
 ## Features
 
