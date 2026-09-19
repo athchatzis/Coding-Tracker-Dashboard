@@ -76,6 +76,14 @@ Start the tracker:
 
 The tracker uses relative file paths, so its configuration and data files are read and written in the working directory. Use the same working directory on subsequent runs to continue using the same data.
 
+### Running in the Background
+
+The tracker is designed to run independently in the background while you work. You can package it as a Windows executable (`.exe`) and configure it to launch automatically when you sign in to Windows using the Startup folder.
+
+For instructions on creating the executable with PyInstaller and setting up automatic startup, see the [original Coding Tracker repository](https://github.com/athchatzis/Coding-Tracker-Script). Follow its packaging and startup instructions; the Pixela setup applies only to the original version and is not required here.
+
+The dashboard does not need to remain open for tracking to continue.
+
 ### Start the dashboard
 
 Open another terminal in the repository root and run:
