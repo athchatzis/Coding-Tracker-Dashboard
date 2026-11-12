@@ -11,6 +11,7 @@ This project is an evolution of my original [Coding Tracker Script](https://gith
 This version removes the Pixela API integration and introduces a dedicated desktop dashboard. The tracker has also been refactored from a function-based implementation toward a class-based structure: the main tracking state and behavior now live in the `Main` class, with supporting utility functions.
 
 The project is part of my ongoing practice with Python, object-oriented programming, and desktop application development.
+The full ready-to-run .exe files of the two applications are stored in **Executables Ready To Be Downloaded.md** above!
 
 ## Preview
 
